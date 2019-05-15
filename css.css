@@ -1,0 +1,22 @@
+body{
+	background: #9999;
+}
+.elemArr{
+	background: pink;
+}
+.newP{
+	display: inline-block;
+	float: right;
+}
+.elemArrnot{
+	background: black;
+}
+
+.btn{
+	color: blue;
+	background: green;
+	border: none;
+	min-height: 15px;
+	border-radius: 3px;
+	outline: none;
+}
